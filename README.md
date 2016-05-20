@@ -161,6 +161,8 @@ Try listing all services running using `ls` command. You should see `com.hailoca
 
 - The homescreen & users web login page does not work. Use the hshell one to get around this.
 - The hlabs domain is hardcoded in the nginx config and in the web discovery binary.
+- RabbitMQ 3.5.4 management is required.
+- Problems in nsq docker repository
 
 ### Troubleshooting
 
